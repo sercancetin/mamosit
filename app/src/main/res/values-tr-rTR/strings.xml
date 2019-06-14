@@ -1,0 +1,261 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="admobappid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="carkcevirgecisreklamid">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="carkcevirodulluid">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admobbannercarkcevirid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="homeodulluid">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="homegecisreklamid">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="sorubilodulluid">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="sorubilgecisreklamid">ca-app-pub-3940256099942544/1033173712</string>
+    <!--Admob test için Admob test için bitiş -->
+    <!--
+    <string name="admobappid">ca-app-pub-3059142482721717~3527804679</string>
+    <string name="carkcevirgecisreklamid">ca-app-pub-3059142482721717/9326926265</string>
+    <string name="carkcevirodulluid">ca-app-pub-3059142482721717/2194665419</string>
+    <string name="admobbannercarkcevirid">ca-app-pub-3059142482721717/2605728952</string>
+    <string name="homeodulluid">ca-app-pub-3059142482721717/8568502079</string>
+    <string name="homegecisreklamid">ca-app-pub-3059142482721717/1448436241</string>
+    <string name="sorubilodulluid">ca-app-pub-3059142482721717/2003093726</string>
+    <string name="sorubilgecisreklamid">ca-app-pub-3059142482721717/1264727125</string>
+    -->
+
+    <string name="appversiyon">1.0</string>
+    <string name="app_name">MaMoSit</string>
+    <string name="internetbaglantihatasi">İnternet Bağlantı Hatası</string>
+    <string name="splahnetbilgi">Sunucu ile iletişim için internet bağlantısı olması gerekir.</string>
+    <string name="ok">TAMAM</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="girisbasarili">Giriş başarılı…</string>
+    <string name="girisbasarisiz">Giriş başarısız…</string>
+    <string name="cekilisvar">Çekiliş Var!</string>
+    <string name="simdipaylas">Şimdi Paylaş</string>
+    <string name="applinkisa">apps/details?id=com.s.s</string>
+    <string name="applinuzun">https://play.google.com/store/apps/details?id=com.s.s</string>
+    <string name="gizlilik">https://sercancetin.com</string>
+    <string name="playlink1">app link gelecek</string>
+    <string name="playlink2">app link uzun gelecek</string>
+    <!--widget yazıları -->
+    <string name="hesabim">Account</string>
+    <!--etiketler ve cümleler-->
+    <string name="kalanhak">kalanhak</string>
+    <string name="bilgitut">bilgitut</string>
+    <string name="iptal">İptal</string>
+    <string name="tamam">Tamam</string>
+    <string name="siparisler">siparisler</string>
+    <string name="durum">durum</string>
+    <string name="userid">userid</string>
+    <string name="dil">dil</string>
+    <string name="paracevirdizi">paracevirdizi</string>
+    <string name="referansinidsi">referansinidsi</string>
+    <string name="bilkazansiksecilmedi">Her hangi bir şık seçilmedi</string>
+    <string name="user">user</string>
+    <string name="puan">puan</string>
+    <string name="bilkazanreklamyüklenemedi">Reklam yüklenemedi sonra deneyin</string>
+    <string name="sorular">sorular</string>
+    <string name="bilkazansoruhazirlaniyor">Soru Hazırlanıyor</string>
+    <string name="baslangicagit">Başlangıca git…</string>
+    <string name="hayir">HAYIR</string>
+    <string name="evet">EVET</string>
+    <string name="oyunkontrol">oyunkontrol</string>
+    <string name="reklamalanlari">reklamalanlari</string>
+    <string name="kisiselreklamalanlar">kisiselreklamalanlar</string>
+    <string name="bilkazanactivity">bilkazanactivity</string>
+    <string name="sayac">sayac</string>
+    <string name="kasa">kasa</string>
+    <string name="refverdigitoplampuan">refverdigitoplampuan</string>
+    <string name="sorubilpuaneklendi"> Soru bil puan eklendi</string>
+    <string name="yirmicevirmesonrasiodul">yirmicevirmesonrasiodul</string>
+    <string name="internetbaglantikesildi">İnternet bağlantısı kesildi.</string>
+    <string name="carkpuaneklendi"> çark puanı eklendi</string>
+    <string name="reklamizlepuankazan">Reklam izleyerek puan kazanma şansı yakala.</string>
+    <string name="carkactiviyt">carkactiviyt</string>
+    <string name="bekleyiniz">Bekleyiniz…</string>
+    <string name="gorevler">gorevler</string>
+    <string name="para">para</string>
+    <string name="textplain">text/plain</string>
+    <string name="mamositapp">Mamosit App</string>
+    <string name="refgonder1">Merhaba. Bu uygulama oturduğun yerden para kazandıran uygulamadır. Benim referansım ile kayıt olursan </string>
+    <string name="refgonder2"> puan ile başlayacaksın.</string>
+    <string name="refgonder3">Referans adım: </string>
+    <string name="refgonder4"> Hadi şimdi indir, aramıza katıl. </string>
+    <string name="refgonder5">Şimdi paylaş. Arkadaşlarınızda görsün.</string>
+    <string name="appplaylinkuzun">https://play.google.com/store/apps/details?id=com.mamositapp.mamosit</string>
+    <string name="appplaykisalink">apps/details?id=com.mamositapp.mamosit</string>
+    <string name="mailto">mailto:</string>
+    <string name="mamosithakkinda">Mamosit hakkında</string>
+    <string name="kullanici">Kullanıcı: </string>
+    <string name="adi">Adı:</string>
+    <string name="telmodel">Tel Model: </string>
+    <string name="zaman">zaman</string>
+    <string name="sitezaman">sitezaman</string>
+    <string name="yenigüncelversiyon">Yeni güncel versiyon yayında.</string>
+    <string name="guncelle">Güncelle</string>
+    <string name="sonratekrardene">Bir hata oluştu. Sonra tekrar deneyin</string>
+    <string name="zatenbirkerecevirdiniz">Zaten bir kere çevirdiniz. Etkinlik boyunca bir kere çevirebilirsiniz.</string>
+    <string name="uygulamacikis1">Uygulamadan çıkış</string>
+    <string name="uygulamacikis2">Uygulamadan çıkmak ister misiniz?</string>
+    <string name="sunucubaglantikuruluyor">Sunucu ile bağlantı kuruluyor…</string>
+    <string name="sunucugelenkontrolediliyor">Sunucudan gelenler kontrol ediliyor…</string>
+    <string name="banlandiniz">Banlandınız</string>
+    <string name="banaciklama">Uygunsuz durum tespit edildi. Bir sorun olduğunu düşünüyorsanız iletişim kurmaktan çekinmeyin</string>
+    <string name="bakimdayiz">Bakımdayız</string>
+    <string name="bakimaciklama">Bekleteceğimiz için özür dileriz. En kısa sürede geri geleceğiz.</string>
+    <string name="zamanpuaneklendi">Zaman puanı eklendi.</string>
+    <string name="gunlukpuaneklendi">Günlük puan eklendi.</string>
+    <string name="tekliveriler">tekliveriler</string>
+    <string name="etkinlikcarki">etkinlikcarki</string>
+    <string name="anasayfakontrol">anasayfakontrol</string>
+    <string name="ekstrapuaneklendi"> ekstra puan kazandınız</string>
+    <string name="kapandi">Kapandı</string>
+    <string name="carkpuanieklendi"> Çark puanı eklendi</string>
+    <string name="useretkinlik">useretkinlik</string>
+    <string name="banka">banka</string>
+    <string name="yetersizbakiye">Yetersiz Bakiye. Alt Limit: </string>
+    <string name="papara">papara</string>
+    <string name="ininal">ininal</string>
+    <string name="googleplay">googleplay</string>
+    <string name="kontor">kontor</string>
+    <string name="bitcoin">bitcoin</string>
+    <string name="siparisgerceklesti">Sipariş gerçekleşti.</string>
+    <string name="referansno">referansno</string>
+    <string name="baslangicpuan">baslangicpuan</string>
+    <string name="adres" tools:ignore="Typos">adres</string>
+    <string name="name">name</string>
+    <string name="ban">ban</string>
+    <string name="kimgetirdi">kimgetirdi</string>
+    <string name="mail">mail</string>
+    <string name="usermail">usermail</string>
+    <string name="songiris">songiris</string>
+    <string name="user_name">user_name</string>
+    <string name="status">status</string>
+    <string name="google_id">google_id</string>
+    <string name="gecmistoplamkasa">gecmistoplamkasa</string>
+    <string name="onbirkaraktergecmemeli">11 karakteri geçmemeli.</string>
+    <string name="boslukicermemeli">Boşluk içermemeli</string>
+    <string name="dortkarakterolmali">En az 4 karekterli olmalı</string>
+    <string name="boylenickvar">Böyle bir Nick var</string>
+    <string name="googlegirisid">386026596475-a79segaseafchbkaf01q3aqhm3a2dffm.apps.googleusercontent.com</string>
+    <string name="refkontrolediliyor">Referans Kontrol ediliyor.</string>
+    <string name="arkadasininbirhediyesivar">Arkadaşınının bir hediyesi var. Eğer uygulamayı arkadaşın tavsiye etti ise referansını gir ve puan kazan. Not: Sonraki girişlerde referans belirleyemezsiniz. Kazanılacak Puan: </string>
+    <string name="boylebirrefyok">Böyle bir referans yok</string>
+    <string name="referansbaslarkenkipuan">referansbaslarkenkipuan</string>
+    <string name="googlemapapp">com.google.android.apps.maps</string>
+    <string name="yandexmapapp">ru.yandex.yandexnavi</string>
+    <string name="konumbilgisialinamadi">Konum bilgisi alınamadı. İpucu: Haritaları bir kere açın.</string>
+    <string name="gpsbaglantisi">Gps Bağlantısı</string>
+    <string name="lütfengpsbaglantisi">Lütfen GPS Bağlantınızı Açın. Tek seferlik konum bilginize ihtiyacımız var.</string>
+    <string name="odemebekleyenler">Ödeme Bekleyenler</string>
+    <string name="odemesiyapilanlar">Ödemesi Yapılanlar</string>
+    <string name="kasadakileraktariliyor">Kasadakiler aktarılıyor.</string>
+    <string name="kasapuaninedir">Kasa Puanı nedir?</string>
+    <string name="referanslarininsana">Referanslarının sana kazandırdığı puanlar burada birikir.</string>
+    <string name="kasadakipuna">Kasadaki puan 1000 ve fazlası olduğunda otomatik olarak ana puana eklenir ve kasa sıfırlanır.</string>
+    <string name="tarih">tarih</string>
+    <string name="puaninizkatilmakicinyeterlideğil">Puanınız katılmak için yeterli değil.</string>
+    <string name="sonradene">Sonra deneyin.</string>
+    <string name="havuzkontrol">havuzkontrol</string>
+    <string name="havuzakatilanlar">havuzakatilanlar</string>
+    <string name="havuzcekilis">havuzcekilis</string>
+    <string name="date">date</string>
+    <string name="id">id</string>
+    <string name="oncekipuan">oncekipuan</string>
+    <string name="yatirkazannedir">Yatır kazan nedir?</string>
+    <string name="heruyebir">Her üye birçok kez belirtilen değer kadar puan yatırır ve çekilişe yatırdığı kadar katılabilir</string>
+    <string name="birikenpuan">Biriken puan belirtilen tarih sonra çekiliş ile 10 kişiye dağıtılır</string>
+    <string name="katilimgerceklesti">Katılım gerçekleşti.</string>
+
+    <string name="odemesinir">odemesinir</string>
+    <string name="herhangibirindeeksikvar">Her hangi birinde eksik var.</string>
+    <string name="sipariskontrolediliyor">Siparis kontrol ediliyor.</string>
+    <string name="odemesi">Ödemesi</string>
+    <string name="ödemepopup2">Gönderilecek hesabın ismi</string>
+    <string name="ödemepopup3">Telefon Numarası</string>
+    <string name="ödemepopup4">Hesap Numarası</string>
+    <string name="ödemepopup5">Not ekle (İsteğe bağlı)</string>
+    <string name="ödemepopup6">Onayla</string>
+
+    <string name="sitetarihadres">http://pdfdunyasi.com/mamosittarih.php</string>
+
+
+    <!--activity deki cümleler -->
+    <string name="activitiycevirkazan1">20 kere çevir ödül al. Ödül:</string>
+    <string name="activitiycevirkazan2">Kazandığınız puan</string>
+    <string name="activitiycevirkazan3">Çevirme sayısı:</string>
+    <string name="activitiycevirkazan4">Çevir</string>
+    <string name="activitiycevirkazan5">Bekleyiniz</string>
+
+    <string name="activitiygorevyap1">Henüz bir görev yok.</string>
+
+    <string name="activitiyhesabim1">Puan</string>
+    <string name="activitiyhesabim2">Bakiye</string>
+    <string name="activitiyhesabim3">Ref. Adın</string>
+    <string name="activitiyhesabim4">Takımını Topla</string>
+    <string name="activitiyhesabim5">App Oyla</string>
+    <string name="activitiyhesabim6">Mesaj Gönder</string>
+
+    <string name="activitiyhome1">Hesabım</string>
+    <string name="activitiyhome2">Günlük Hediye</string>
+    <string name="activitiyhome3">Etkinlik Çarkı</string>
+    <string name="activitiyhome4">Çevir Kazan</string>
+    <string name="activitiyhome5">Bil Kazan</string>
+    <string name="activitiyhome6">Ödeme Al</string>
+    <string name="activitiyhome7"> Puan kazan</string>
+    <string name="activitiyhome8">Takımım</string>
+    <string name="activitiyhome9">Ödeme Alanlar</string>
+    <string name="activitiyhome10">Görev Yap Kazan</string>
+    <string name="activitiyhome11">Yatır Kazan</string>
+
+    <string name="activityodemeal1">Para Alma Yönteminizi Seçin</string>
+
+    <string name="activityreferansbelirle1">Getirdiğin üyelerden ekstra gelir etmek için anlaşılır ve kısa bir nick name gir. Seni bulmaları kolay olsun. Getirdiğin her üye refverdigitoplampuan kazandıkça, sana %10\'u hemen eklenir. Diğer üyeden bir şey eksilmez.</string>
+    <string name="activityreferansbelirle2">nick_name</string>
+    <string name="activityreferansbelirle3">Onayla</string>
+
+    <string name="activityregister1">Uygulamaya giriş yapmak için google hesabınızı kullanabilirsiniz.
+        Bu sizi sıkıcı üye olma prosüdürlerinden kurtarır. Google giriş ile sadece Mailinizi,
+        isminizi ve varsa profil resminizi kullanırız. Şifrenizi google kesinlikle paylaşmaz.
+        -Tek seferlik konum bilginize ihtiyacımız var.</string>
+    <string name="activityregister2">Referansın gir (Boş bırakabilirsin)</string>
+    <string name="activityregister3">Konum Bilgisi</string>
+    <string name="activityregister4">Gizlilik Sözleşmesi</string>
+
+    <string name="activitysorubilkazan1">Bu film kaç yılında vizyona çıkmıştır?</string>
+
+    <string name="activitytakimim1">Ana Puan:</string>
+    <string name="activitytakimim2">Kasadaki Puan:</string>
+    <string name="activitytakimim3">Hala bir takım üyen yok. Hemen kodunu paylaş ve üye ekle.
+Unutma her üye oynadıkca sana puan kazandırır.</string>
+
+    <string name="activityyatirkazan1">Katılım Sayısı:</string>
+    <string name="activityyatirkazan2">Çekiliş Tarihi:</string>
+    <string name="activityyatirkazan3">Katılma sayınız:</string>
+    <string name="activityyatirkazan4">Size çıkma olasılığı: %</string>
+    <string name="activityyatirkazan5">Yatırılan Puan</string>
+    <string name="activityyatirkazan6">Çekiliş Sonucu</string>
+    <string name="activityyatirkazan7">Puan Ekleyerek şansını arttır</string>
+
+    <string name="gorevline1">Ticket</string>
+    <string name="gorevline2">Önizle</string>
+
+    <string name="odenmemisgfragment">Henuz sipariş yok.</string>
+
+    <string name="odenmemissingle1">Sipariş Tarihi:</string>
+    <string name="odenmemissingle2">Ödeme:</string>
+    <string name="odenmemissingle3">Beklemede</string>
+
+    <string name="popuprulet1">Bol Şanslar</string>
+    <string name="popuprulet2">çevir</string>
+    <string name="popuprulet3">Kapat</string>
+
+    <string name="singleodenmis1">Gönderiliş Tarihi:</string>
+    <string name="singleodenmis2">Ödeme:</string>
+    <string name="singleodenmis3">Kanıt</string>
+
+    <string name="takimimsingle1">Kazandırdığı Puan:</string>
+
+    <string name="yanlissorudialog1">Cevaplanan Soru: </string>
+    <string name="yanlissorudialog2">Toplanan Puan: </string>
+    <string name="yanlissorudialog3">+100 Puan Kazan</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gray">#E9E9E9</color>
+    <color name="ozet">#918D8D</color>
+    <color name="homecardbg">#ECECEC</color>
+    <color name="oturumbg">#8BF3F3F3</color>
+    <color name="white">#fff</color>
+    <color name="ayinensayi">#2699E7</color>
+
+    <color name="cekilisodulbg">#55c770</color>
+    <color name="katilimbtn">#e5584a</color>
+    <color name="cekiliskazanbg">#3773a0</color>
+    <color name="cekilisekatilbg">#dfae39</color>
+    <color name="puankazanbg">#3CD1EE</color>
+    <color name="black">#000000</color>
+    <color name="kilityazi">#22C4F8</color>
+    <color name="red">#FF0000</color>
+    <color name="dialogarkaplan">#5E000000</color>
+    <color name="spots_dialog_color">@android:color/holo_red_light</color>
+    <color name="hediyeurunad2">#fff</color>
+</resources>

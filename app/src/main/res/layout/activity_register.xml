@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/splashbg"
+    tools:context=".activity.Register">
+
+    <ImageView
+        android:id="@+id/registericon"
+        android:layout_width="234dp"
+        android:layout_height="106dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/logo" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:textColor="@color/colorPrimary"
+        android:padding="30dp"
+        android:text="@string/activityregister1"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/urunlistbg">
+        <EditText
+            android:id="@+id/edtregisterreferans"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:background="@drawable/urunlistbg"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:hint="@string/activityregister2"/>
+        <Button
+            android:id="@+id/registerreftanitim"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/ic_live_help_black_24dp"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/btnsignin"
+            android:layout_width="244dp"
+            android:elevation="5dp"
+            android:visibility="invisible"
+            android:layout_height="55dp">
+        </com.google.android.gms.common.SignInButton>
+        <Button
+            android:id="@+id/btnregisterkonum"
+            android:layout_width="244dp"
+            android:elevation="5dp"
+            android:background="@drawable/cekilisekatil"
+            android:text="@string/activityregister3"
+            android:layout_height="55dp" />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/txtgizlilik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/red"
+        android:textSize="16sp"
+        android:text="@string/activityregister4"/>
+</LinearLayout>

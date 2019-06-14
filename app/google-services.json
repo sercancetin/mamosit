@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386026596475",
+    "firebase_url": "https://mamosit.firebaseio.com",
+    "project_id": "mamosit",
+    "storage_bucket": "mamosit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386026596475:android:d6270c62ef5e1a07",
+        "android_client_info": {
+          "package_name": "com.mamositapp.mamosit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386026596475-ee021re61cmhum7g624d1dmttn9k3d88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mamositapp.mamosit",
+            "certificate_hash": "43e19dad08878bdd5e276a10d5e9277b297e1861"
+          }
+        },
+        {
+          "client_id": "386026596475-a79segaseafchbkaf01q3aqhm3a2dffm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_cx1db39LR-aOx446eTCIpa9F7W5GYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386026596475-a79segaseafchbkaf01q3aqhm3a2dffm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

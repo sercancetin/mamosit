@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="447dp"
+        android:background="@drawable/answerbgred"
+        android:gravity="center"
+        android:elevation="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/ozelgunruletsonuc"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:text="@string/popuprulet1"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="295dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/carkbg"/>
+            <ImageView
+                android:id="@+id/ozelgunruletimg"
+                android:layout_width="280dp"
+                android:layout_height="280dp"
+                android:adjustViewBounds="true"
+                android:layout_centerInParent="true"
+                android:src="@drawable/carkkendisi"/>
+            <ImageView
+                android:id="@+id/ozelgunbelirtec"
+                android:layout_width="27dp"
+                android:layout_height="23dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ruletok" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <Button
+                android:id="@+id/ozelgunruletcevir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popupbutoncarki"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:text="@string/popuprulet2"/>
+            <Button
+                android:id="@+id/ozelgunruletkapat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popupbutoncarki"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:text="@string/popuprulet3"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

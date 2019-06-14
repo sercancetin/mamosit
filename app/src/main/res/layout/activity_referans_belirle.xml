@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashbg"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".activity.ReferansBelirle">
+
+    <ImageView
+        android:id="@+id/imgreferanslogo"
+        android:layout_width="263dp"
+        android:layout_height="96dp"
+        android:src="@drawable/logo" />
+    <LinearLayout
+        android:id="@+id/lytreferanswrap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:padding="8dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/urunlistbg">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/colorPrimary"
+            android:text="@string/activityreferansbelirle1"/>
+        <EditText
+            android:id="@+id/edtnickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:inputType="text"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:hint="@string/activityreferansbelirle2"
+            />
+        <Button
+            android:id="@+id/btnnicknameonay"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:background="@color/cekilisekatilbg"
+            android:text="@string/activityreferansbelirle3"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mamositapp.mamosit">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeNoActionBar"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".activity.Siparis"></activity>
+        <activity android:name=".activity.GorevYap" />
+        <activity android:name=".activity.YatirKazan" />
+        <activity android:name=".activity.Hesabim" />
+        <activity android:name=".activity.Takimim" />
+        <activity android:name=".activity.OdemeAl" />
+        <activity android:name=".activity.BilKazan" />
+        <activity android:name=".activity.CevirKazan" />
+        <activity android:name=".activity.ReferansBelirle" />
+        <activity android:name=".activity.Register" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.Home" />
+
+        <service android:name=".ShowNotification" />
+        <service android:name=".service.MyFirebaseInstanceServices" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admobappid" />
+    </application>
+
+</manifest>
